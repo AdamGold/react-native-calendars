@@ -34,6 +34,7 @@ export default function styleConstructor(theme = {}) {
     },
     selectedText: {
       color: appStyle.selectedDayTextColor,
+      fontWeight: appStyle.selectedDayfontWeight
     },
     disabledText: {
       color: appStyle.textDisabledColor,
